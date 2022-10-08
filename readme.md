@@ -25,3 +25,7 @@ Route::get('/card-radio', function () {
 ## Dependencies
 
 ![PHP v7.4+](https://img.shields.io/badge/PHP-v7.4%2B-magenta) ![Alpine.js](https://img.shields.io/badge/Alpine-.js-blue) ![Laravel v9.0+](https://img.shields.io/badge/laravel-v8%2B-orange)
+
+## References
+
+https://github.com/drehimself/custom-radio-buttons
